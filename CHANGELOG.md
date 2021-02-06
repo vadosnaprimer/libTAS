@@ -3,6 +3,7 @@
 ### Changed
 ### Fixed
 
+* Fix pitch for OpenAL
 
 ## [1.4.1] - 2021-01-02
 ### Added
