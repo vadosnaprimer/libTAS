@@ -1,3 +1,9 @@
+libtas (1.4.1a) unstable; urgency=medium
+
+  * Fix pitch for OpenAL
+  
+ -- clement <clement.gallet@ens-lyon.org>  Sun, 24 Apr 2022 10:14:18 +0100
+
 libtas (1.4.1) unstable; urgency=medium
 
   * Savestates can be compressed

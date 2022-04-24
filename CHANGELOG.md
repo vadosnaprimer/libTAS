@@ -3,6 +3,9 @@
 ### Changed
 ### Fixed
 
+## [1.4.1a] - 2022-04-24
+### Added
+
 * Fix pitch for OpenAL
 
 ## [1.4.1] - 2021-01-02
